@@ -2,7 +2,7 @@ module.exports = {
   projects: [
     {
       displayName: 'tests',
-      testMatch: ['<rootDir>/src/**/*.spec.js']
+      testMatch: ['<rootDir>/**/*.spec.js']
     },
     {
       displayName: 'lint',
