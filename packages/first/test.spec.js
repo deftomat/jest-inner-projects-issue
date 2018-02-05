@@ -1,3 +1,3 @@
-it('should test src in first package', () => {
+it('should test first package', () => {
   expect(true).toBeTruthy();
 });
