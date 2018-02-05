@@ -1,0 +1,8 @@
+{
+  "name": "jest-nested-projects-issue",
+  "private": true,
+  "devDependencies": {
+    "jest": "^22.1.4",
+    "jest-runner-eslint": "^0.4.0"
+  }
+}
